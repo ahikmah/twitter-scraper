@@ -3,12 +3,6 @@
 2. Jupyter notebook
 3. Library Tweepy
 
-Disini saya menggunakan Anaconda (https://www.anaconda.com/products/individual) kalian juga bisa menggunakan teks editor seperti VSCode dengan membuat file berekstensi .ipynb. Untuk cara yang lebih jelas kalian bisa cek dokumentasinya saja.
-
-# Langkah-Langkah :
-1. Buka jupyter notebook
-2. Klik New, lalu pilih Python 3
-
 # Kode
 
 1. Install Library Tweepy
